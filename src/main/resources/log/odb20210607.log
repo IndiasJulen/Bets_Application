@@ -1,0 +1,44 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-07 20:10:28 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4184@DESKTOP-OT7AHR9
+
+[2021-06-07 20:10:29 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-07 20:10:29 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-07 20:10:29 #4 type.registry] 
+New type domain.User
+
+[2021-06-07 20:10:29 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-07 20:10:29 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-07 20:10:29 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-07 20:10:29 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-07 20:10:29 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-07 20:10:29 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-07 20:10:29 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-07 20:10:29 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-07 20:10:29 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-07 20:10:29 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+

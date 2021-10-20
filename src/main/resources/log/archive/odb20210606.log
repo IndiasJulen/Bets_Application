@@ -1,0 +1,616 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:01:17 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 5740@DESKTOP-OT7AHR9
+
+[2021-06-06 18:01:17 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:01:17 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:01:17 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:01:17 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:01:17 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:01:17 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:01:17 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:01:17 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:01:17 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:01:17 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:01:17 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:01:17 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:01:17 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:05:58 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 3724@DESKTOP-OT7AHR9
+
+[2021-06-06 18:05:58 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:05:58 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:05:58 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:05:58 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:05:58 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:05:58 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:05:58 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:05:58 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:05:58 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:05:58 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:05:58 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:05:58 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:05:58 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:45:48 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 11788@DESKTOP-OT7AHR9
+
+[2021-06-06 18:45:48 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:45:48 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:45:48 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:45:48 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:45:48 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:45:48 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:45:48 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:45:48 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:45:48 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:45:48 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:45:48 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:45:48 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:45:48 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:48:32 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4884@DESKTOP-OT7AHR9
+
+[2021-06-06 18:48:32 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:48:32 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:48:32 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:48:32 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:48:32 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:48:32 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:48:32 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:48:32 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:48:32 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:48:32 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:48:32 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:48:32 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:48:32 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:52:51 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9804@DESKTOP-OT7AHR9
+
+[2021-06-06 18:52:51 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:52:51 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:52:51 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:52:51 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:52:51 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:52:51 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:52:51 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:52:51 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:52:51 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:52:51 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:52:51 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:52:51 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:52:51 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:53:55 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 2404@DESKTOP-OT7AHR9
+
+[2021-06-06 18:53:56 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:53:56 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:53:56 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:53:56 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:53:56 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:53:56 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:53:56 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:53:56 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:53:56 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:53:56 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:53:56 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:53:56 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:53:56 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:55:55 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9688@DESKTOP-OT7AHR9
+
+[2021-06-06 18:55:55 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:55:55 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:55:55 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:55:55 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:55:55 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:55:55 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:55:55 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:55:55 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:55:55 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:55:55 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:55:55 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:55:55 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:55:55 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:56:18 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13940@DESKTOP-OT7AHR9
+
+[2021-06-06 18:56:18 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:56:18 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:56:18 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:56:18 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:56:18 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:56:18 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:56:18 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:56:18 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:56:18 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:56:18 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:56:18 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:56:18 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:56:18 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:58:30 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 13680@DESKTOP-OT7AHR9
+
+[2021-06-06 18:58:30 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:58:30 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:58:30 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:58:30 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:58:30 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:58:30 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:58:30 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:58:30 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:58:30 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:58:30 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:58:30 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:58:30 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:58:30 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 18:59:54 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 9140@DESKTOP-OT7AHR9
+
+[2021-06-06 18:59:54 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 18:59:54 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 18:59:54 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 18:59:54 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 18:59:54 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 18:59:54 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 18:59:54 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 18:59:55 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 18:59:55 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 18:59:55 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 18:59:55 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 18:59:55 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 18:59:55 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 19:03:08 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12364@DESKTOP-OT7AHR9
+
+[2021-06-06 19:03:08 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 19:03:08 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 19:03:08 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 19:03:08 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 19:03:08 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 19:03:08 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 19:03:08 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 19:03:08 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 19:03:08 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 19:03:08 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 19:03:08 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 19:03:08 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 19:03:08 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 19:03:49 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 12384@DESKTOP-OT7AHR9
+
+[2021-06-06 19:03:50 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 19:03:50 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 19:03:50 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 19:03:50 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 19:03:50 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 19:03:50 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 19:03:50 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 19:03:50 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 19:03:50 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 19:03:50 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 19:03:50 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 19:03:50 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 19:03:50 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 19:04:43 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 3392@DESKTOP-OT7AHR9
+
+[2021-06-06 19:04:43 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 19:04:43 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 19:04:43 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 19:04:43 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 19:04:43 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 19:04:43 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 19:04:43 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 19:04:43 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 19:04:43 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 19:04:43 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 19:04:43 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 19:04:43 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 19:04:43 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-06 19:06:40 #1 store] 
+Database 'C:\Users\julen\eclipse-workspace\Bets21-master\src\main\resources\bets.temp' is opened by 4500@DESKTOP-OT7AHR9
+
+[2021-06-06 19:06:40 #2 type.registry] 
+New type domain.Puja
+
+[2021-06-06 19:06:40 #3 type] 
+Type domain.Puja is not enhanced.
+
+[2021-06-06 19:06:40 #4 type.registry] 
+New type domain.User
+
+[2021-06-06 19:06:40 #5 type.registry] 
+New type domain.Bezero
+
+[2021-06-06 19:06:40 #6 type.registry] 
+New type domain.Subasta
+
+[2021-06-06 19:06:40 #7 type] 
+Type domain.User is not enhanced.
+
+[2021-06-06 19:06:40 #8 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-06 19:06:40 #9 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-06 19:06:40 #10 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-06 19:06:40 #11 type] 
+Type domain.Subasta is not enhanced.
+
+[2021-06-06 19:06:40 #12 type.registry] 
+New type domain.Admin
+
+[2021-06-06 19:06:40 #13 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-06 19:06:40 #14 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+

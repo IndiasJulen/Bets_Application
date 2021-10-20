@@ -1,0 +1,46 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-21 20:36:10 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 3247@MacBook-Air-de-Inigo.local
+
+[2021-05-21 20:36:10 #2 type.registry] 
+New type domain.Question
+
+[2021-05-21 20:36:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-21 20:36:10 #4 type.registry] 
+New type domain.Event
+
+[2021-05-21 20:36:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-21 20:36:10 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-21 20:36:10 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-21 20:39:36 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 3291@MacBook-Air-de-Inigo.local
+
+[2021-05-21 20:39:36 #2 type.registry] 
+New type domain.Question
+
+[2021-05-21 20:39:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-21 20:39:36 #4 type.registry] 
+New type domain.Event
+
+[2021-05-21 20:39:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-21 20:39:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-21 20:39:36 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

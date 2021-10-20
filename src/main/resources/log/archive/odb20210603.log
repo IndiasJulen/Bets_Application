@@ -1,0 +1,3192 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 10:54:58 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 12840@DESKTOP-OT7AHR9
+
+[2021-06-03 10:54:58 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 10:54:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 10:54:58 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 10:54:58 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 10:54:58 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 10:54:58 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 10:54:58 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 10:54:58 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 10:54:58 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 10:54:58 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 10:54:58 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 10:54:58 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 10:54:58 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 10:54:58 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 10:54:58 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 10:54:58 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 10:54:58 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:03:15 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 12080@DESKTOP-OT7AHR9
+
+[2021-06-03 11:03:15 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:03:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:03:15 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:03:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:03:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:03:15 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:03:15 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:03:15 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:03:15 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:03:15 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:03:15 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:03:15 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:03:15 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:03:15 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:03:15 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:03:15 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:03:15 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:03:55 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 11156@DESKTOP-OT7AHR9
+
+[2021-06-03 11:03:55 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:03:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:03:55 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:03:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:03:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:03:55 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:03:55 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:03:55 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:03:55 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:03:55 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:03:55 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:03:55 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:03:55 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:03:55 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:03:55 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:03:55 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:03:55 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:07:27 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 17148@DESKTOP-OT7AHR9
+
+[2021-06-03 11:07:27 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:07:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:07:27 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:07:27 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:07:27 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:07:27 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:07:27 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:07:27 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:07:27 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:07:27 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:07:27 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:07:27 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:07:27 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:07:27 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:07:27 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:07:27 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:07:27 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:07:53 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 9556@DESKTOP-OT7AHR9
+
+[2021-06-03 11:07:53 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:07:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:07:53 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:07:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:07:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:07:53 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:07:53 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:07:53 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:07:53 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:07:53 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:07:53 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:07:53 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:07:53 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:07:53 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:07:53 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:07:53 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:07:53 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:09:01 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 14628@DESKTOP-OT7AHR9
+
+[2021-06-03 11:09:01 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:09:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:09:01 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:09:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:09:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:09:01 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:09:01 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:09:01 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:09:01 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:09:01 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:09:01 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:09:01 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:09:01 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:09:01 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:09:01 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:09:01 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:09:01 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:09:46 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 14032@DESKTOP-OT7AHR9
+
+[2021-06-03 11:09:47 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:09:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:09:47 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:09:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:09:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:09:47 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:09:47 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:09:47 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:09:47 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:09:47 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:09:47 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:09:47 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:09:47 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:09:47 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:09:47 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:09:47 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:09:47 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:10:34 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 216@DESKTOP-OT7AHR9
+
+[2021-06-03 11:10:34 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:10:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:10:34 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:10:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:10:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:10:34 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:10:34 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:10:34 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:10:34 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:10:34 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:10:34 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:10:34 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:10:34 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:10:34 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:10:34 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:10:34 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:10:34 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:10:48 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 3732@DESKTOP-OT7AHR9
+
+[2021-06-03 11:10:48 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:10:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:10:48 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:10:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:10:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:10:48 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:10:48 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:10:48 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:10:48 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:10:48 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:10:48 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:10:48 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:10:48 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:10:48 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:10:48 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:10:48 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:10:48 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:12:17 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 7484@DESKTOP-OT7AHR9
+
+[2021-06-03 11:12:17 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:12:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:12:17 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:12:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:12:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:12:17 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:12:17 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:12:17 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:12:17 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:12:17 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:12:17 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:12:17 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:12:17 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:12:17 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:12:17 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:12:17 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:12:17 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:13:44 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 15272@DESKTOP-OT7AHR9
+
+[2021-06-03 11:13:44 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:13:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:13:44 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:13:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:13:45 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:13:45 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:13:45 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:13:45 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:13:45 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:13:45 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:13:45 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:13:45 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:13:45 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:13:45 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:13:45 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:13:45 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:13:45 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:15:24 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 14568@DESKTOP-OT7AHR9
+
+[2021-06-03 11:15:24 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:15:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:15:24 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:15:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:15:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:15:24 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:15:24 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:15:24 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:15:24 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:15:24 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:15:24 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:15:24 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:15:24 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:15:24 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:15:24 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:15:24 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:15:24 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:16:54 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 10636@DESKTOP-OT7AHR9
+
+[2021-06-03 11:16:54 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:16:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:16:54 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:16:54 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:16:54 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:16:54 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:16:54 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:16:54 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:16:54 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:16:54 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:16:54 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:16:54 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:16:54 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:16:54 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:16:54 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:16:54 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:16:54 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:18:23 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 17096@DESKTOP-OT7AHR9
+
+[2021-06-03 11:18:23 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:18:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:18:23 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:18:23 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:18:23 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:18:23 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:18:23 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:18:23 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:18:23 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:18:23 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:18:23 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:18:23 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:18:23 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:18:23 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:18:23 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:18:23 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:18:23 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:19:35 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 14964@DESKTOP-OT7AHR9
+
+[2021-06-03 11:19:35 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:19:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:19:35 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:19:35 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:19:35 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:19:35 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:19:35 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:19:35 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:19:35 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:19:35 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:19:35 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:19:35 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:19:35 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:19:35 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:19:35 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:19:35 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:19:35 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:20:44 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 10584@DESKTOP-OT7AHR9
+
+[2021-06-03 11:20:44 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:20:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:20:44 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:20:44 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:20:44 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:20:44 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:20:44 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:20:44 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:20:44 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:20:44 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:20:44 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:20:44 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:20:44 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:20:44 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:20:44 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:20:44 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:20:44 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:22:01 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 4240@DESKTOP-OT7AHR9
+
+[2021-06-03 11:22:01 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:22:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:22:01 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:22:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:22:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:22:01 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:22:01 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:22:01 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:22:01 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:22:01 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:22:01 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:22:01 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:22:01 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:22:01 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:22:01 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:22:01 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:22:01 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:23:00 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 7648@DESKTOP-OT7AHR9
+
+[2021-06-03 11:23:01 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:23:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:23:01 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:23:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:23:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:23:01 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:23:01 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:23:01 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:23:01 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:23:01 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:23:01 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:23:01 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:23:01 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:23:01 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:23:01 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:23:01 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:23:01 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:23:25 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 16544@DESKTOP-OT7AHR9
+
+[2021-06-03 11:23:25 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:23:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:23:25 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:23:25 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:23:25 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:23:25 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:23:25 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:23:25 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:23:25 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:23:25 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:23:25 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:23:25 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:23:25 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:23:25 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:23:25 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:23:25 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:23:25 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:26:55 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 16556@DESKTOP-OT7AHR9
+
+[2021-06-03 11:26:55 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:26:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:26:55 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:26:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:26:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:26:55 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:26:55 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:26:55 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:26:55 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:26:55 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:26:55 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:26:55 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:26:55 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:26:55 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:26:55 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:26:55 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:26:55 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:27:20 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 2680@DESKTOP-OT7AHR9
+
+[2021-06-03 11:27:20 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:27:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:27:20 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:27:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:27:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:27:20 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:27:20 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:27:20 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:27:20 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:27:20 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:27:20 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:27:20 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:27:20 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:27:20 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:27:20 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:27:20 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:27:20 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:28:49 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 8428@DESKTOP-OT7AHR9
+
+[2021-06-03 11:28:49 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:28:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:28:49 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:28:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:28:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:28:49 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:28:49 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:28:49 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:28:49 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:28:49 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:28:49 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:28:49 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:28:49 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:28:49 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:28:49 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:28:49 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:28:49 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:29:45 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 9828@DESKTOP-OT7AHR9
+
+[2021-06-03 11:29:45 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:29:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:29:45 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:29:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:29:45 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:29:45 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:29:45 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:29:45 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:29:45 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:29:45 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:29:45 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:29:45 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:29:45 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:29:45 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:29:45 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:29:45 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:29:45 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:30:04 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 16144@DESKTOP-OT7AHR9
+
+[2021-06-03 11:30:04 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:30:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:30:04 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:30:04 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:30:04 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:30:04 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:30:04 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:30:04 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:30:04 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:30:04 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:30:04 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:30:04 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:30:04 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:30:04 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:30:04 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:30:04 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:30:04 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:30:23 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 15248@DESKTOP-OT7AHR9
+
+[2021-06-03 11:30:23 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:30:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:30:23 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:30:23 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:30:23 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:30:23 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:30:23 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:30:23 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:30:23 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:30:23 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:30:23 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:30:23 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:30:23 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:30:23 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:30:23 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:30:23 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:30:23 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:33:56 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 10148@DESKTOP-OT7AHR9
+
+[2021-06-03 11:33:56 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:33:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:33:56 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:33:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:33:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:33:56 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:33:56 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:33:56 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:33:56 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:33:56 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:33:56 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:33:56 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:33:56 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:33:56 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:33:56 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:33:56 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:33:56 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:34:32 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 2464@DESKTOP-OT7AHR9
+
+[2021-06-03 11:34:32 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:34:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:34:32 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:34:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:34:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:34:32 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:34:32 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:34:32 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:34:32 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:34:32 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:34:32 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:34:32 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:34:32 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:34:32 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:34:32 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:34:32 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:34:32 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:34:52 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 9532@DESKTOP-OT7AHR9
+
+[2021-06-03 11:34:53 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:34:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:34:53 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:34:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:34:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:34:53 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:34:53 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:34:53 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:34:53 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:34:53 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:34:53 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:34:53 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:34:53 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:34:53 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:34:53 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:34:53 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:34:53 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:53:18 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 10284@DESKTOP-OT7AHR9
+
+[2021-06-03 11:53:18 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:53:18 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:53:18 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:53:18 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:53:18 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:53:18 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:53:18 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:53:18 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:53:18 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:53:18 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:53:18 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:53:18 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:53:18 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:53:18 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:53:18 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:53:18 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:53:18 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:54:08 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 4156@DESKTOP-OT7AHR9
+
+[2021-06-03 11:54:08 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:54:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:54:08 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:54:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:54:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:54:08 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:54:08 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:54:08 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:54:08 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:54:08 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:54:08 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:54:08 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:54:08 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:54:08 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:54:08 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:54:08 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:54:08 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:54:49 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 3288@DESKTOP-OT7AHR9
+
+[2021-06-03 11:54:49 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:54:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:54:49 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:54:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:54:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:54:49 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:54:49 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:54:49 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:54:49 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:54:49 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:54:49 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:54:49 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:54:49 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:54:49 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:54:49 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:54:49 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:54:49 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 11:56:17 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 11104@DESKTOP-OT7AHR9
+
+[2021-06-03 11:56:17 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 11:56:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 11:56:17 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 11:56:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 11:56:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 11:56:17 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 11:56:17 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 11:56:17 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 11:56:17 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 11:56:17 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 11:56:17 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 11:56:17 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 11:56:17 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 11:56:17 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 11:56:17 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 11:56:17 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 11:56:17 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:00:00 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 9644@DESKTOP-OT7AHR9
+
+[2021-06-03 12:00:01 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:00:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:00:01 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:00:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:00:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:00:01 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:00:01 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:00:01 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:00:01 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:00:01 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:00:01 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:00:01 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:00:01 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:00:01 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:00:01 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:00:01 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:00:01 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:18:01 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 12928@DESKTOP-OT7AHR9
+
+[2021-06-03 12:18:02 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:18:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:18:02 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:18:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:18:02 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:18:02 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:18:02 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:18:02 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:18:02 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:18:02 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:18:02 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:18:02 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:18:02 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:18:02 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:18:02 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:18:02 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:18:02 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:22:09 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 7556@DESKTOP-OT7AHR9
+
+[2021-06-03 12:22:09 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:22:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:22:09 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:22:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:22:09 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:22:09 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:22:09 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:22:09 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:22:09 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:22:09 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:22:09 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:22:09 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:22:09 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:22:09 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:22:09 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:22:09 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:22:09 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:23:37 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 8608@DESKTOP-OT7AHR9
+
+[2021-06-03 12:23:37 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:23:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:23:37 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:23:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:23:37 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:23:37 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:23:37 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:23:37 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:23:37 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:23:37 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:23:37 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:23:37 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:23:37 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:23:37 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:23:37 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:23:37 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:23:38 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:24:49 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 16024@DESKTOP-OT7AHR9
+
+[2021-06-03 12:24:49 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:24:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:24:49 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:24:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:24:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:24:49 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:24:49 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:24:49 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:24:49 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:24:49 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:24:49 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:24:49 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:24:49 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:24:49 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:24:49 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:24:49 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:24:49 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:25:37 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 17108@DESKTOP-OT7AHR9
+
+[2021-06-03 12:25:37 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:25:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:25:37 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:25:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:25:37 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:25:37 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:25:37 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:25:37 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:25:37 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:25:37 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:25:37 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:25:37 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:25:37 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:25:37 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:25:37 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:25:37 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:25:37 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:26:58 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 14120@DESKTOP-OT7AHR9
+
+[2021-06-03 12:26:59 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:26:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:26:59 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:26:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:26:59 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:26:59 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:26:59 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:26:59 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:26:59 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:26:59 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:26:59 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:26:59 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:26:59 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:26:59 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:26:59 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:26:59 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:26:59 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:39:34 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 14288@DESKTOP-OT7AHR9
+
+[2021-06-03 12:39:34 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:39:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:39:34 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:39:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:39:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:39:34 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:39:34 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:39:34 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:39:34 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:39:34 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:39:34 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:39:34 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:39:34 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:39:34 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:39:34 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:39:34 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:39:34 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:39:58 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 15632@DESKTOP-OT7AHR9
+
+[2021-06-03 12:39:59 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:39:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:39:59 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:39:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:39:59 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:39:59 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:39:59 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:39:59 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:39:59 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:39:59 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:39:59 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:39:59 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:39:59 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:39:59 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:39:59 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:39:59 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:39:59 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:40:17 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 804@DESKTOP-OT7AHR9
+
+[2021-06-03 12:40:17 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:40:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:40:17 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:40:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:40:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:40:17 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:40:17 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:40:17 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:40:17 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:40:17 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:40:17 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:40:17 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:40:17 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:40:17 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:40:17 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:40:17 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:40:17 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:41:05 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 7308@DESKTOP-OT7AHR9
+
+[2021-06-03 12:41:05 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:41:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:41:05 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:41:05 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:41:05 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:41:05 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:41:05 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:41:05 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:41:05 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:41:05 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:41:05 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:41:05 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:41:05 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:41:05 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:41:05 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:41:05 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:41:05 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:41:29 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 17300@DESKTOP-OT7AHR9
+
+[2021-06-03 12:41:30 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:41:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:41:30 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:41:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:41:30 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:41:30 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:41:30 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:41:30 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:41:30 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:41:30 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:41:30 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:41:30 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:41:30 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:41:30 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:41:30 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:41:30 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:41:30 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:42:39 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 7528@DESKTOP-OT7AHR9
+
+[2021-06-03 12:42:39 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:42:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:42:39 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:42:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:42:39 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:42:39 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:42:39 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:42:39 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:42:39 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:42:39 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:42:39 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:42:39 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:42:39 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:42:39 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:42:39 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:42:39 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:42:39 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:43:15 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 13320@DESKTOP-OT7AHR9
+
+[2021-06-03 12:43:15 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:43:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:43:15 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:43:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:43:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:43:15 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:43:15 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:43:15 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:43:15 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:43:15 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:43:15 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:43:15 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:43:15 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:43:15 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:43:15 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:43:15 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:43:15 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:44:22 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 15600@DESKTOP-OT7AHR9
+
+[2021-06-03 12:44:22 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:44:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:44:22 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:44:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:44:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:44:22 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:44:22 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:44:22 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:44:22 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:44:22 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:44:22 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:44:22 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:44:22 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:44:22 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:44:22 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:44:22 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:44:22 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:45:12 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 6948@DESKTOP-OT7AHR9
+
+[2021-06-03 12:45:12 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:45:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:45:12 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:45:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:45:12 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:45:12 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:45:12 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:45:12 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:45:12 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:45:12 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:45:12 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:45:12 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:45:12 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:45:12 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:45:12 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:45:12 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:45:12 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:47:24 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 14908@DESKTOP-OT7AHR9
+
+[2021-06-03 12:47:24 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:47:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:47:24 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:47:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:47:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:47:24 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:47:24 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:47:24 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:47:24 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:47:24 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:47:24 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:47:24 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:47:24 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:47:24 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:47:24 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:47:24 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:47:24 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:48:46 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 4136@DESKTOP-OT7AHR9
+
+[2021-06-03 12:48:46 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:48:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:48:46 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:48:46 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:48:46 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:48:46 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:48:46 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:48:46 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:48:46 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:48:46 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:48:46 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:48:46 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:48:46 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:48:46 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:48:46 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:48:46 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:48:46 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:50:29 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 5736@DESKTOP-OT7AHR9
+
+[2021-06-03 12:50:30 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:50:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:50:30 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:50:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:50:30 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:50:30 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:50:30 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:50:30 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:50:30 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:50:30 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:50:30 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:50:30 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:50:30 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:50:30 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:50:30 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:50:30 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:50:30 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:50:54 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 11632@DESKTOP-OT7AHR9
+
+[2021-06-03 12:50:55 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:50:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:50:55 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:50:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:50:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:50:55 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:50:55 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:50:55 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:50:55 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:50:55 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:50:55 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:50:55 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:50:55 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:50:55 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:50:55 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:50:55 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:50:55 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:51:42 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 8552@DESKTOP-OT7AHR9
+
+[2021-06-03 12:51:42 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:51:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:51:42 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:51:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:51:42 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:51:42 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:51:42 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:51:42 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:51:42 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:51:42 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:51:42 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:51:42 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:51:42 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:51:42 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:51:42 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:51:42 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:51:42 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:52:06 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 16760@DESKTOP-OT7AHR9
+
+[2021-06-03 12:52:06 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:52:06 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:52:06 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:52:06 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:52:06 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:52:06 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:52:06 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:52:06 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:52:06 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:52:06 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:52:06 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:52:06 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:52:06 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:52:06 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:52:06 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:52:06 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:52:06 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:52:31 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 6500@DESKTOP-OT7AHR9
+
+[2021-06-03 12:52:31 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:52:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:52:31 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:52:31 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:52:31 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:52:31 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:52:31 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:52:31 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:52:31 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:52:31 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:52:31 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:52:31 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:52:31 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:52:31 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:52:31 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:52:31 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:52:31 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:52:50 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 8644@DESKTOP-OT7AHR9
+
+[2021-06-03 12:52:51 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:52:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:52:51 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:52:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:52:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:52:51 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:52:51 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:52:51 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:52:51 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:52:51 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:52:51 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:52:51 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:52:51 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:52:51 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:52:51 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:52:51 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:52:51 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-06-03 12:54:20 #1 store] 
+Database 'C:\Users\julen\Desktop\Bets21-master\src\main\resources\bets.temp' is opened by 10316@DESKTOP-OT7AHR9
+
+[2021-06-03 12:54:20 #2 type.registry] 
+New type domain.Question
+
+[2021-06-03 12:54:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-06-03 12:54:20 #4 type.registry] 
+New type domain.Event
+
+[2021-06-03 12:54:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-06-03 12:54:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-06-03 12:54:20 #7 type.registry] 
+New type domain.User
+
+[2021-06-03 12:54:20 #8 type.registry] 
+New type domain.Bezero
+
+[2021-06-03 12:54:20 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-06-03 12:54:20 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-06-03 12:54:20 #11 type.registry] 
+New type domain.Puja
+
+[2021-06-03 12:54:20 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-06-03 12:54:20 #13 type.registry] 
+New type domain.Subasta
+
+[2021-06-03 12:54:20 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-06-03 12:54:20 #15 type.registry] 
+New type domain.Admin
+
+[2021-06-03 12:54:20 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-06-03 12:54:20 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-06-03 12:54:20 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+

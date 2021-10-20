@@ -1,0 +1,353 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-28 17:44:21 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 1558@MacBook-Air-de-Inigo.local
+
+[2021-05-28 17:44:21 #2 type.registry] 
+New type domain.Question
+
+[2021-05-28 17:44:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-28 17:44:21 #4 type.registry] 
+New type domain.Event
+
+[2021-05-28 17:44:21 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-28 17:44:21 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-28 17:44:21 #7 type.registry] 
+New type domain.User
+
+[2021-05-28 17:44:21 #8 type.registry] 
+New type domain.Bezero
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-28 17:47:59 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 1629@MacBook-Air-de-Inigo.local
+
+[2021-05-28 17:47:59 #2 type.registry] 
+New type domain.Question
+
+[2021-05-28 17:47:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-28 17:47:59 #4 type.registry] 
+New type domain.Event
+
+[2021-05-28 17:47:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-28 17:47:59 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-28 17:47:59 #7 type.registry] 
+New type domain.User
+
+[2021-05-28 17:47:59 #8 type.registry] 
+New type domain.Bezero
+
+[2021-05-28 17:47:59 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-05-28 17:47:59 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-28 17:47:59 #11 type.registry] 
+New type domain.Puja
+
+[2021-05-28 17:47:59 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-05-28 17:47:59 #13 type.registry] 
+New type domain.Subasta
+
+[2021-05-28 17:47:59 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-05-28 17:47:59 #15 type.registry] 
+New type domain.Admin
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-28 17:48:32 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 1655@MacBook-Air-de-Inigo.local
+
+[2021-05-28 17:48:32 #2 type.registry] 
+New type domain.Question
+
+[2021-05-28 17:48:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-28 17:48:32 #4 type.registry] 
+New type domain.Event
+
+[2021-05-28 17:48:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-28 17:48:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-28 17:48:32 #7 type.registry] 
+New type domain.User
+
+[2021-05-28 17:48:32 #8 type.registry] 
+New type domain.Bezero
+
+[2021-05-28 17:48:32 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-05-28 17:48:32 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-28 17:48:32 #11 type.registry] 
+New type domain.Puja
+
+[2021-05-28 17:48:32 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-05-28 17:48:32 #13 type.registry] 
+New type domain.Subasta
+
+[2021-05-28 17:48:32 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-05-28 17:48:32 #15 type.registry] 
+New type domain.Admin
+
+[2021-05-28 17:48:32 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-28 17:48:32 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-28 17:48:32 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-28 17:50:29 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 1700@MacBook-Air-de-Inigo.local
+
+[2021-05-28 17:50:30 #2 type.registry] 
+New type domain.Question
+
+[2021-05-28 17:50:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-28 17:50:30 #4 type.registry] 
+New type domain.Event
+
+[2021-05-28 17:50:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-28 17:50:30 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-28 17:50:30 #7 type.registry] 
+New type domain.User
+
+[2021-05-28 17:50:30 #8 type.registry] 
+New type domain.Bezero
+
+[2021-05-28 17:50:30 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-05-28 17:50:30 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-28 17:50:30 #11 type.registry] 
+New type domain.Puja
+
+[2021-05-28 17:50:30 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-05-28 17:50:30 #13 type.registry] 
+New type domain.Subasta
+
+[2021-05-28 17:50:30 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-05-28 17:50:30 #15 type.registry] 
+New type domain.Admin
+
+[2021-05-28 17:50:30 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-28 17:50:30 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-28 17:50:30 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-28 18:24:46 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 2026@MacBook-Air-de-Inigo.local
+
+[2021-05-28 18:24:46 #2 type.registry] 
+New type domain.Question
+
+[2021-05-28 18:24:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-28 18:24:47 #4 type.registry] 
+New type domain.Event
+
+[2021-05-28 18:24:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-28 18:24:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-28 18:24:47 #7 type.registry] 
+New type domain.User
+
+[2021-05-28 18:24:47 #8 type.registry] 
+New type domain.Bezero
+
+[2021-05-28 18:24:47 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-05-28 18:24:47 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-28 18:24:47 #11 type.registry] 
+New type domain.Puja
+
+[2021-05-28 18:24:47 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-05-28 18:24:47 #13 type.registry] 
+New type domain.Subasta
+
+[2021-05-28 18:24:47 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-05-28 18:24:47 #15 type.registry] 
+New type domain.Admin
+
+[2021-05-28 18:24:47 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-28 18:24:47 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-28 18:24:47 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-28 18:28:40 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 2067@MacBook-Air-de-Inigo.local
+
+[2021-05-28 18:28:40 #2 type.registry] 
+New type domain.Question
+
+[2021-05-28 18:28:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-28 18:28:40 #4 type.registry] 
+New type domain.Event
+
+[2021-05-28 18:28:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-28 18:28:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-28 18:28:40 #7 type.registry] 
+New type domain.User
+
+[2021-05-28 18:28:40 #8 type.registry] 
+New type domain.Bezero
+
+[2021-05-28 18:28:40 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-05-28 18:28:40 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-28 18:28:40 #11 type.registry] 
+New type domain.Puja
+
+[2021-05-28 18:28:40 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-05-28 18:28:40 #13 type.registry] 
+New type domain.Subasta
+
+[2021-05-28 18:28:40 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-05-28 18:28:40 #15 type.registry] 
+New type domain.Admin
+
+[2021-05-28 18:28:40 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-28 18:28:40 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-28 18:28:40 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-28 18:32:10 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 2133@MacBook-Air-de-Inigo.local
+
+[2021-05-28 18:32:10 #2 type.registry] 
+New type domain.Question
+
+[2021-05-28 18:32:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-28 18:32:10 #4 type.registry] 
+New type domain.Event
+
+[2021-05-28 18:32:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-28 18:32:10 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-28 18:32:10 #7 type.registry] 
+New type domain.User
+
+[2021-05-28 18:32:10 #8 type.registry] 
+New type domain.Bezero
+
+[2021-05-28 18:32:10 #9 type] 
+Type domain.User is not enhanced.
+
+[2021-05-28 18:32:10 #10 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-28 18:32:10 #11 type.registry] 
+New type domain.Puja
+
+[2021-05-28 18:32:10 #12 type.registry] 
+New type java.util.ArrayList<domain.Puja>
+
+[2021-05-28 18:32:10 #13 type.registry] 
+New type domain.Subasta
+
+[2021-05-28 18:32:10 #14 type.registry] 
+New type java.util.ArrayList<domain.Subasta>
+
+[2021-05-28 18:32:10 #15 type.registry] 
+New type domain.Admin
+
+[2021-05-28 18:32:10 #16 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-28 18:32:10 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-28 18:32:10 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+

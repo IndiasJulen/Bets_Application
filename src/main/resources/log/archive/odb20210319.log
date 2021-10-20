@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-19 16:42:59 #1 store] 
+Database '/Users/inigo/Downloads/Bets21-master/src/main/resources/bets.temp' is opened by 2832@MacBook-Air-de-Inigo.local
+
+[2021-03-19 16:42:59 #2 type.registry] 
+New type domain.Question
+
+[2021-03-19 16:42:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-03-19 16:42:59 #4 type.registry] 
+New type domain.Event
+
+[2021-03-19 16:42:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-03-19 16:43:00 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-03-19 16:43:00 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
